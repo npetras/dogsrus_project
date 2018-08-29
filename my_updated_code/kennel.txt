@@ -1,0 +1,29 @@
+DogsRUs Kennel
+20
+3
+Dinky
+1
+James Bond
+007007
+1
+Gold fingers
+false
+false
+George
+1
+Jaime Turnip
+2345
+2
+Chicken with gravy
+true
+true
+Rover
+2
+Chris Loftus
+1234
+Pete Hoskins
+2222
+2
+biscuits
+true
+true
