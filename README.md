@@ -3,4 +3,4 @@ This project was an assignment for Year 1 Semester 2 Object Oriented module. The
 ## Original and Modified Code
 The original code was the code provided to me by the lecturer of this module, which I then had to modify extensively and that is the product of the modified code. 
 ## Full Report on Project
-A more detailed report about the project - 
+A more detailed report about the project - https://nicolaspetras.wordpress.com/portfolio/dogsrus-project
